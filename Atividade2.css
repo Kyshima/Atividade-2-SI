@@ -148,7 +148,7 @@ header {
 	color: #FFFFFF;
 	cursor: pointer;
 }
-.copyright {
+.preto {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -278,4 +278,6 @@ footer {
 .intro .column p {
 	width: 80%;
 }
+}
+.right {
 }
