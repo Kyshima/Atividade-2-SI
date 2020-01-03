@@ -141,9 +141,10 @@ header {
 	border: 3px solid #FFFFFF;
 	color: #FFFFFF;
 	transition: all 0.3s linear;
+	background-color: #6DC7D0;
 }
 .button:hover {
-	background-color: #6DC7D0;
+	background-color: #A9DEE3;
 	color: #FFFFFF;
 	cursor: pointer;
 }
